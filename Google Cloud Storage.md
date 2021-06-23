@@ -35,7 +35,7 @@
   
   Datastore is optimized to serve high-value transactional data to applications.
   
-* Cloud Memorystore (Beta)
+* Cloud Memorystore
 
   Redis compatible **in-memory data** store to build app caches with sub-ms latency
   

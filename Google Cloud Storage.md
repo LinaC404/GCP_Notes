@@ -38,10 +38,11 @@
   Redis compatible **in-memory data** store to build app caches with sub-ms latency
   
   Not recommended for storing data
-  
-![Where do I store my stuff](./image/0623_storage2.jpg)
+ 
+<div align=center><img src="./image/0623_storage4.jpg" alt="The difference between these types1"/></div>
+<div align=center><img src="./image/0623_storage5.jpg" alt="The difference between these types1"/></div>
 
-![Where do I store my stuff](./image/0623_storage3.jpg)
+![Decision tree](./image/0623_storage3.jpg)
 
 REFERENCE:
 * https://blog.yugabyte.com/new-to-google-cloud-databases-5-areas-of-confusion-that-you-better-be-aware-of/

@@ -1,7 +1,8 @@
 <h1 align='center'>Google Cloud Storage</h1>
 
 ![Where do I store my stuff](./image/0623_storage1.jpg)
-
+<div align=center><img src="./image/0623_storage4.jpg" alt="The difference between these types1"/></div>
+<div align=center><img src="./image/0623_storage5.jpg" alt="The difference between these types1" width="700"/></div>
 <h2>SQL Databases</h2>
 
 * Cloud SQL
@@ -38,9 +39,6 @@
   Redis compatible **in-memory data** store to build app caches with sub-ms latency
   
   Not recommended for storing data
- 
-<div align=center><img src="./image/0623_storage4.jpg" alt="The difference between these types1"/></div>
-<div align=center><img src="./image/0623_storage5.jpg" alt="The difference between these types1" width="700"/></div>
 
 ![Decision tree](./image/0623_storage3.jpg)
 

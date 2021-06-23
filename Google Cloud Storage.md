@@ -40,7 +40,7 @@
   Not recommended for storing data
  
 <div align=center><img src="./image/0623_storage4.jpg" alt="The difference between these types1"/></div>
-<div align=center><img src="./image/0623_storage5.jpg" alt="The difference between these types1"/></div>
+<div align=center><img src="./image/0623_storage5.jpg" alt="The difference between these types1" width="700"/></div>
 
 ![Decision tree](./image/0623_storage3.jpg)
 

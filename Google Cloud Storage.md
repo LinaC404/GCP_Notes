@@ -43,6 +43,19 @@
 
 ![Decision tree](./image/0623_storage3.jpg)
 
+
+<h2>Expand About Storage-classes</h2>
+
+> Standard Storage: frequently accessed ("hot" data) and/or stored for only brief periods of time.
+> 
+> Nearline Storage: a low-cost, highly durable storage service for storing infrequently accessed data(a 30-day minimum storage duration) It is good for reading or modifying on average once per month or less.
+> 
+> Coldline Storage: very-low-cost(a 90-day minimum storage duration).
+> 
+> Archive Storage: lowest-cost(a 365-day minimum storage duration, good for online backup, and disaster recovery).
+
+
 REFERENCE:
 * https://blog.yugabyte.com/new-to-google-cloud-databases-5-areas-of-confusion-that-you-better-be-aware-of/
 * https://stackoverflow.com/questions/30085326/google-cloud-bigtable-vs-google-cloud-datastore
+* https://cloud.google.com/storage/docs/storage-classes
